@@ -1,7 +1,8 @@
+import React from 'react';
 import Navbar from "./Navbar";
 import Corpo from "./Corpo";
 
-export default function Site() {
+function Site() {
     return (
         <div className="root">
             <Navbar />
@@ -9,3 +10,4 @@ export default function Site() {
         </div>
     );
 }
+export default Site;

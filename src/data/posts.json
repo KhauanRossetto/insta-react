@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "user": "meowed",
+      "userImage": "assets/img/meowed.svg",
+      "image": "assets/img/bmw.jpg",
+      "liked": false,
+      "saved": false,
+      "likes": 29,
+      "likedBy": "respondeai",
+      "likedByImage": "assets/img/respondeai.svg"
+    },
+    {
+      "id": 2,
+      "user": "barked",
+      "userImage": "assets/img/barked.svg",
+      "image": "assets/img/supra.jpg",
+      "liked": false,
+      "saved": false,
+      "likes": 150599,
+      "likedBy": "adorable_animals",
+      "likedByImage": "assets/img/adorable_animals.svg"
+    },
+    {
+      "id": 3,
+      "user": "wawawicomics",
+      "userImage": "assets/img/wawawicomics.svg",
+      "image": "assets/img/mustang.jpg",
+      "liked": false,
+      "saved": false,
+      "likes": 0,
+      "likedBy": "wawawicomics",
+      "likedByImage": "assets/img/adorable_animals.svg"
+    }
+  ]
+  
